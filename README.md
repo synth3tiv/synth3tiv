@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h4> I'm Samantha, my goal is to become a front-end web developer, so wish me luck 🍀 </h4>
   <i>💡 Ok, here's the plan:</i>
 
-  ## 🌱 I'm working with, and learning
+  ### 🌱 I'm working with, and learning
   <a  href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a> &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   <i>Once I master those👆, to complement my skills I ...</i>
 
-  ## 📑 Got my eye on
+  ### 📑 Got my eye on
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/></a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a> &nbsp;
@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 
   <i>I don't know where the development path will take me, but I'm curious about these ...</i>
 
-  ## 🔮 Other interests
+  ### 🔮 Other interests
   <a href="https://www.gnu.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="gnu/linux" width="40" height="40"/></a> &nbsp;
   <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/></a> &nbsp;
   <a href="https://www.ruby-lang.org/en/"><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/></a> &nbsp;
   <a href="https://ethereum.org/en/"><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/></a> &nbsp;
   <!-- <a href=""><img src="" alt="" width="40" height="40"/></a> &nbsp; -->
 
-  ## 📫 How to reach me:
+  ### 📫 How to reach me:
 
   <a href="https://www.linkedin.com/in/samanthape%C3%B1aloza/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="/samanthapenaloza" width="30" height="30"/></a> &nbsp;
   <a href="mailto:synthetiv@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" height="30"/> &nbsp;
