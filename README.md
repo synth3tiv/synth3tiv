@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=66758A&center=true&vCenter=true&width=435&lines=%F0%9F%93%AB+How+to+reach+me)](https://git.io/typing-svg)
 
-  <a href="https://www.linkedin.com/in/samanthape%C3%B1aloza/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="/samanthapenaloza" width="30" height="30"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/samanthapenaloza/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="/samanthapenaloza" width="30" height="30"/></a> &nbsp;
   <a href="mailto:synthetiv@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" height="30"/> &nbsp;
   <a href="https://www.instagram.com/synthetiv/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="synthetiv" width="30" height="30"/></a> &nbsp;
   <a href="https://twitter.com/synthetiv"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="synthetiv" width="35" height="28"/></a> &nbsp;
